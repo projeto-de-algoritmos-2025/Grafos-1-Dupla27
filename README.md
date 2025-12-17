@@ -1,5 +1,4 @@
 # Grafos-1-Dupla27
-Vídeo explicação
 
 
 **Número da Lista**: 1<br>
