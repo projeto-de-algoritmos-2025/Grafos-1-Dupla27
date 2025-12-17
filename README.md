@@ -11,7 +11,7 @@
 | 20/2017129  |  Rodrigo Orlandi |
 
 ## Sobre 
-O projeto possui como tema central a resolução de exercícios de programação de tema grafos do juiz online Beecrowd.
+O projeto possui como tema central a resolução de exercícios de programação de tema grafos dos juizes online Beecrowd e Aizu.
 
 ## Exercícios
 
